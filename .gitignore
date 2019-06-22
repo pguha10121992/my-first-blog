@@ -1,0 +1,7 @@
+a*.pyc
+*~
+__pycache__
+pguhaenv
+db.sqlite3
+/static
+.DS_Store
